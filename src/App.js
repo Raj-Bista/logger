@@ -6,6 +6,7 @@ import './App.css';
 import SearchBar from './components/layout/SearchBar';
 import Logs from './components/logs/Logs';
 import AddBtn from './components/layout/AddBtn';
+import AddLogLodal from './components/logs/AddLogModal';
 function App() {
   useEffect(()=>{
     // init materialize Js
@@ -17,6 +18,7 @@ function App() {
        <div className="container">
          <AddBtn />
          <Logs />
+         <AddLogLodal />
        </div>
      </Fragment>
   );
