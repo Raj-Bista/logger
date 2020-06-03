@@ -1,49 +1,35 @@
 {
-    "logs": [
-      {
-        "message": "Changed network card in server 007",
-        "attention": false,
-        "tech": "Sam Smith",
-        "date": "2019-05-31T15:46:10.179Z",
-        "id": 1
-      },
-      {
-        "id": 2,
-        "message": "Fixed hard drive on workstation 002",
-        "attention": false,
-        "tech": "John Doe",
-        "date": "2019-05-31T16:18:04.245Z"
-      },
-      {
-        "message": "1122 wireless down",
-        "attention": true,
-        "tech": "Sara Wilson",
-        "date": "2019-05-31T15:46:48.690Z",
-        "id": 3
-      },
-      {
-        "id": 4,
-        "message": "Workstation 026 is up and running",
-        "attention": false,
-        "tech": "Sara Wilson",
-        "date": "2019-05-31T19:57:35.544Z"
-      }
-    ],
-    "techs": [
-      {
-        "id": 1,
-        "firstName": "John",
-        "lastName": "Doe"
-      },
-      {
-        "id": 2,
-        "firstName": "Sam",
-        "lastName": "Smith"
-      },
-      {
-        "id": 3,
-        "firstName": "Sara",
-        "lastName": "Wilson"
-      }
-    ]
-  }
+  "logs": [
+    {
+      "message": "hard-drive change station 19",
+      "attention": false,
+      "tech": "tin doe",
+      "date": "2020-06-03T11:02:50.282Z",
+      "id": 2
+    },
+    {
+      "message": "switch bulb changed 45 sttion",
+      "attention": false,
+      "tech": "mon doe",
+      "date": "2020-06-03T11:03:11.723Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
