@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "hard-drive change station 19",
+      "id": 2,
+      "message": "hard-drive change station 20",
       "attention": false,
-      "tech": "tin doe",
-      "date": "2020-06-03T11:02:50.282Z",
-      "id": 2
+      "tech": "john doe",
+      "date": "2020-06-03T12:06:28.969Z"
     },
     {
       "message": "switch bulb changed 45 sttion",
@@ -13,6 +13,13 @@
       "tech": "mon doe",
       "date": "2020-06-03T11:03:11.723Z",
       "id": 3
+    },
+    {
+      "message": "popp",
+      "attention": false,
+      "tech": "john doe",
+      "date": "2020-06-03T12:23:29.749Z",
+      "id": 4
     }
   ],
   "techs": [
